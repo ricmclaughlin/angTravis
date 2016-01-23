@@ -6,7 +6,7 @@ var conf = require('./conf');
 var codecov = require('gulp-codecov.io');
 
 gulp.task('codecover', function(done) {
-  gulp.src('./coverage/report-lcov/lcov.info')
+  gulp.src('./coverage/lcov.info')
   .pipe(codecov());
 });
 
