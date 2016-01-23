@@ -13,6 +13,7 @@
     "browser-sync-spa": "~1.0.3",
     "chalk": "~1.1.1",
     "codecov": "^1.0.1",
+    "coveralls": "^2.11.6",
     "del": "~2.0.2",
     "eslint-loader": "~1.1.0",
     "eslint-plugin-angular": "~0.12.0",
